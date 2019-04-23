@@ -318,6 +318,9 @@ MIT
 @angular/animations
 MIT
 
+@angular/router
+MIT
+
 zone.js
 MIT
 The MIT License
